@@ -4,13 +4,38 @@
 
 This is a simple web application for STMIK WP student. this project is made for my learning process with NEXTJS and TailwindCSS. This project is not official from STMIK WP. The data taken from my own student data.
 
+daily commit is a must for me to keep learning and keep track of my progress. I will try to make this project better and better every day. And updating vercel deployment every weekend.
+
 ## Features
 
 - Current Features
-> displaying a jadwal data with 10 per page
+> - [x] displaying an api data that contains jadwal data (https://wong-stmik.vercel.app/api/jadwal)
+> - [x] displaying a jadwal data with 10 per page
 
 - Currently Working On
 > - [ ] adding pagination
+
+- Future Features
+> - [ ] mobile responsive
+> - [ ] adding a search bar
+> - [ ] adding a filter
+> - [ ] adding timeline with notification
+
+
+## Installation
+- Clone this repository 
+```bash
+git clone  https://github.com/RiqqiAmru/wong-stmik
+```
+- Install the dependencies
+```bash
+npm install
+```
+- Run the development server
+```bash
+npm run dev
+```
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
 ## Tech Stack

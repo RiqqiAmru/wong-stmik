@@ -81,7 +81,7 @@ export function DataTable<TData, TValue>({
         </Table>
       </div>
       {/* button pagination */}
-      {/* <div className="flex items-center justify-end space-x-2 py-4">
+      <div className="flex items-center justify-end space-x-2 py-4">
         <Button
           variant="outline"
           size="sm"
@@ -98,8 +98,7 @@ export function DataTable<TData, TValue>({
         >
           Next
         </Button>
-      </div> */}
-      {console.log(table.getPageCount())}
+      </div>
 
     </div>
   )
