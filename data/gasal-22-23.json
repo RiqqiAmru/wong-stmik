@@ -1,0 +1,4078 @@
+﻿{
+    "jadwal": [
+        {
+            "kode": "KK158",
+            "makul": "Pengenalan Rekayasa Komputer",
+            "kelas": "1M41",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK001",
+            "makul": "Bahasa Indonesia *",
+            "kelas": "1M41",
+            "dosen": "Impuni, M.Pd",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK163",
+            "makul": "Aljabar Linier",
+            "kelas": "1M41",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama *",
+            "kelas": "1M41",
+            "dosen": "Nur Laili, M.Ag",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1M41",
+            "dosen": "P. A. Christianto, M.Kom.",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris I *",
+            "kelas": "1M41",
+            "dosen": "Riski Sulistyaningsih, M.Hum.",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1M41",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB015",
+            "makul": "Desain Grafis I",
+            "kelas": "1M41",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1M41",
+            "dosen": "P. A. Christianto, M.Kom.",
+            "hari": "Rabu",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1M41",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Senin",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1M51",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1M51",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK155",
+            "makul": "Dasar Manajemen dan Bisnis",
+            "kelas": "1M51",
+            "dosen": "Karyoto, M. Si",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1M51",
+            "dosen": "Mukhsin Hadi, S.E, M.Akt",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1M51",
+            "dosen": "Mukhsin Hadi, S.E, M.Akt",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB140",
+            "makul": "Pemodelan Proses Bisnis",
+            "kelas": "1M51",
+            "dosen": "Prastuti Sulistyorini, S.T., M.Kom",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris 1",
+            "kelas": "1M51",
+            "dosen": "Riski Sulistyaningsih, M.Hum.",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB139",
+            "makul": "Matematika Bisnis",
+            "kelas": "1M51",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1M51",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1M51",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Rabu",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "1P11",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P11",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P11",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KK156",
+            "makul": "Pengantar Akuntansi",
+            "kelas": "1P11",
+            "dosen": "Tria Titiani Ch.M.Si",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P11",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "1P11",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Kamis",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P11",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KK155",
+            "makul": "Dasar Manajemen dan Bisnis",
+            "kelas": "1P11",
+            "dosen": "Karyoto, M. Si",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris I *",
+            "kelas": "1P11",
+            "dosen": "Riski Sulistyaningsih, M.Hum.",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB139",
+            "makul": "Matematika Bisnis",
+            "kelas": "1P11",
+            "dosen": "Tri Pudji W,M.Si",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P21",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P21",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KK168",
+            "makul": "Akuntansi Dasar I *",
+            "kelas": "1P21",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KK168",
+            "makul": "Akuntansi Dasar I *",
+            "kelas": "1P21",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "PK001",
+            "makul": "Bahasa Indonesia *",
+            "kelas": "1P21",
+            "dosen": "Impuni, M.Pd",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KK132",
+            "makul": "Statistik Ekonomi",
+            "kelas": "1P21",
+            "dosen": "Tri Pudji W,M.Si",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "PK020",
+            "makul": "Pendidikan Pancasila *",
+            "kelas": "1P21",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KK155",
+            "makul": "Dasar Manajemen dan Bisnis",
+            "kelas": "1P21",
+            "dosen": "Karyoto, M. Si",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris I *",
+            "kelas": "1P21",
+            "dosen": "Riski Sulistyaningsih, M.Hum.",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama *",
+            "kelas": "1P21",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Sabtu",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1P41",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "B2.3"
+        },
+        {
+            "kode": "KK158",
+            "makul": "Pengenalan Rekayasa Komputer",
+            "kelas": "1P41",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK001",
+            "makul": "Bahasa Indonesia *",
+            "kelas": "1P41",
+            "dosen": "Impuni, M.Pd",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK163",
+            "makul": "Aljabar Linier",
+            "kelas": "1P41",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama *",
+            "kelas": "1P41",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P41",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris I *",
+            "kelas": "1P41",
+            "dosen": "Nur Fadhilah, S.S, M.Hum",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1P41",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB015",
+            "makul": "Desain Grafis I",
+            "kelas": "1P41",
+            "dosen": "Ivandari, M.Kom.",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P41",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KK158",
+            "makul": "Pengenalan Rekayasa Komputer",
+            "kelas": "1P42",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "PK001",
+            "makul": "Bahasa Indonesia *",
+            "kelas": "1P42",
+            "dosen": "Impuni, M.Pd",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KK163",
+            "makul": "Aljabar Linier",
+            "kelas": "1P42",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama *",
+            "kelas": "1P42",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Sabtu",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P42",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris I *",
+            "kelas": "1P42",
+            "dosen": "Nur Fadhilah, S.S, M.Hum",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1P42",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB015",
+            "makul": "Desain Grafis I",
+            "kelas": "1P42",
+            "dosen": "Ivandari, M.Kom.",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P42",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1P42",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KK158",
+            "makul": "Pengenalan Rekayasa Komputer",
+            "kelas": "1P43",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "PK001",
+            "makul": "Bahasa Indonesia *",
+            "kelas": "1P43",
+            "dosen": "Impuni, M.Pd",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KK163",
+            "makul": "Aljabar Linier",
+            "kelas": "1P43",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P43",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama *",
+            "kelas": "1P43",
+            "dosen": "Nur Laili, M.Ag",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris I *",
+            "kelas": "1P43",
+            "dosen": "Riski Sulistyaningsih, M.Hum.",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1P43",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB015",
+            "makul": "Desain Grafis I",
+            "kelas": "1P43",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman *",
+            "kelas": "1P43",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Selasa",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB023",
+            "makul": "Jaringan Komputer I",
+            "kelas": "1P43",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P51",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P51",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KK155",
+            "makul": "Dasar Manajemen dan Bisnis",
+            "kelas": "1P51",
+            "dosen": "Karyoto, M. Si",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris 1",
+            "kelas": "1P51",
+            "dosen": "Nur Fadhilah, S.S, M.Hum",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1P51",
+            "dosen": "P. A. Christianto, M.Kom.",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB140",
+            "makul": "Pemodelan Proses Bisnis",
+            "kelas": "1P51",
+            "dosen": "Prastuti Sulistyorini, S.T., M.Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1P51",
+            "dosen": "Syafnita, S.E, M.Si",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1P51",
+            "dosen": "Syafnita, S.E, M.Si",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB139",
+            "makul": "Matematika Bisnis",
+            "kelas": "1P51",
+            "dosen": "Tri Pudji W,M.Si",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1P51",
+            "dosen": "P. A. Christianto, M.Kom.",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KK155",
+            "makul": "Dasar Manajemen dan Bisnis",
+            "kelas": "1P52",
+            "dosen": "Karyoto, M. Si",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris 1",
+            "kelas": "1P52",
+            "dosen": "Nur Fadhilah, S.S, M.Hum",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB140",
+            "makul": "Pemodelan Proses Bisnis",
+            "kelas": "1P52",
+            "dosen": "Prastuti Sulistyorini, S.T., M.Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P52",
+            "dosen": "Prastuti Sulistyorini, S.T., M.Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P52",
+            "dosen": "Prastuti Sulistyorini, S.T., M.Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1P52",
+            "dosen": "Syafnita, S.E, M.Si",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1P52",
+            "dosen": "Syafnita, S.E, M.Si",
+            "hari": "Selasa",
+            "jam": "15.00 - 16.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB139",
+            "makul": "Matematika Bisnis",
+            "kelas": "1P52",
+            "dosen": "Tri Pudji W,M.Si",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1P52",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1P52",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Senin",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P53",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK119",
+            "makul": "Sistem Informasi Manajemen",
+            "kelas": "1P53",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB140",
+            "makul": "Pemodelan Proses Bisnis",
+            "kelas": "1P53",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK155",
+            "makul": "Dasar Manajemen dan Bisnis",
+            "kelas": "1P53",
+            "dosen": "Karyoto, M. Si",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "PK002",
+            "makul": "Bahasa Inggris 1",
+            "kelas": "1P53",
+            "dosen": "Nur Fadhilah, S.S, M.Hum",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1P53",
+            "dosen": "Tri Agus Setiawan, M.Kom.",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB139",
+            "makul": "Matematika Bisnis",
+            "kelas": "1P53",
+            "dosen": "Tri Pudji W,M.Si",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1P53",
+            "dosen": "Tria Titiani Ch.M.Si",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KK301",
+            "makul": "Akuntansi Dasar",
+            "kelas": "1P53",
+            "dosen": "Tria Titiani Ch.M.Si",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB001",
+            "makul": "Algoritma Pemrograman",
+            "kelas": "1P53",
+            "dosen": "Tri Agus Setiawan, M.Kom.",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3M41",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3M41",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB185",
+            "makul": "Scriptwriting and Storyboard",
+            "kelas": "3M41",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KK069",
+            "makul": "Matematika Diskrit",
+            "kelas": "3M41",
+            "dosen": "Eko Aryanto, M.Pd",
+            "hari": "Rabu",
+            "jam": "20.00 - 21.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3M41",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3M41",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB149",
+            "makul": "Audio and Video Design *",
+            "kelas": "3M41",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB187",
+            "makul": "Sistem Operasi *",
+            "kelas": "3M41",
+            "dosen": "Tri Agus Setiawan, M.Kom.",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3M41",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3M41",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3M41",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3M41",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB196",
+            "makul": "Web Design *",
+            "kelas": "3M41",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3M41",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3M41",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3M41",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3M41",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3M41",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3M41",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Jumat",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB149",
+            "makul": "Audio and Video Design *",
+            "kelas": "3M41",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Jumat",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3M41",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3M41",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB128",
+            "makul": "Motion Graphic * (IPS >=3,0)",
+            "kelas": "3M41",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB128",
+            "makul": "Motion Graphic * (IPS >=3,0)",
+            "kelas": "3M41",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3M51",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3M51",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3M51",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3M51",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK040",
+            "makul": "Interaksi Manusia dan Komputer",
+            "kelas": "3M51",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK040",
+            "makul": "Interaksi Manusia dan Komputer",
+            "kelas": "3M51",
+            "dosen": "Hari Agung B., M.Kom.",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3M51",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3M51",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Rabu",
+            "jam": "20.00 - 21.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama",
+            "kelas": "3M51",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama",
+            "kelas": "3M51",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3M51",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3M51",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "3M51",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3M51",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3M51",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3M51",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3M51",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3M51",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3M51",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3M51",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Jumat",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3M51",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Jumat",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3M51",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3M51",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "3M51",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB140",
+            "makul": "Pemodelan Proses Bisnis",
+            "kelas": "3P11",
+            "dosen": "Indrayanti, S.T, M. Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama *",
+            "kelas": "3P11",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Sabtu",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop **",
+            "kelas": "3P11",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop **",
+            "kelas": "3P11",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB171",
+            "makul": "Pemrograman Berbasis Mobile II",
+            "kelas": "3P11",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB171",
+            "makul": "Pemrograman Berbasis Mobile II",
+            "kelas": "3P11",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB013",
+            "makul": "Desain Grafis",
+            "kelas": "3P11",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB013",
+            "makul": "Desain Grafis",
+            "kelas": "3P11",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB144",
+            "makul": "Analisa dan Perancangan Sistem Informasi *",
+            "kelas": "3P21",
+            "dosen": "Prastuti Sulistyorini, S.T., M.Kom",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB144",
+            "makul": "Analisa dan Perancangan Sistem Informasi *",
+            "kelas": "3P21",
+            "dosen": "Prastuti Sulistyorini, S.T., M.Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KK013",
+            "makul": "Akuntansi Biaya",
+            "kelas": "3P21",
+            "dosen": "Tria Titiani Ch.M.Si",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KK172",
+            "makul": "Akuntansi Keuangan Menengah",
+            "kelas": "3P21",
+            "dosen": "Tria Titiani Ch.M.Si",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KK172",
+            "makul": "Akuntansi Keuangan Menengah",
+            "kelas": "3P21",
+            "dosen": "Tria Titiani Ch.M.Si",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab bhs 2"
+        },
+        {
+            "kode": "KB139",
+            "makul": "Matematika Bisnis",
+            "kelas": "3P21",
+            "dosen": "Tri Pudji W,M.Si",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KK150",
+            "makul": "Pemrograman Akuntansi I *",
+            "kelas": "3P21",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KK150",
+            "makul": "Pemrograman Akuntansi I *",
+            "kelas": "3P21",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P21+3P11",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P21+3P11",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P21+3P11",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P21+3P11",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB178",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P21+3P11",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB178",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P21+3P11",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB178",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P21+3P11",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB178",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P21+3P11",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P41",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3P41",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3P41",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KK069",
+            "makul": "Matematika Diskrit",
+            "kelas": "3P41",
+            "dosen": "Eko Aryanto, M.Pd",
+            "hari": "Sabtu",
+            "jam": "09.00 - 10.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3P41",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB187",
+            "makul": "Sistem Operasi *",
+            "kelas": "3P41",
+            "dosen": "Tri Agus Setiawan, M.Kom.",
+            "hari": "Senin",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P41",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P41",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P41",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Rabu",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3P41",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Kamis",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3P41",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3P41",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3P42",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "c.3"
+        },
+        {
+            "kode": "KK069",
+            "makul": "Matematika Diskrit",
+            "kelas": "3P42",
+            "dosen": "Eko Aryanto, M.Pd",
+            "hari": "Sabtu",
+            "jam": "11.00 - 12.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P42",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB187",
+            "makul": "Sistem Operasi *",
+            "kelas": "3P42",
+            "dosen": "Tri Agus Setiawan, M.Kom.",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3P42 + 3P43",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3P42 + 3P43",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3P42+3P43",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3P42+3P43",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3P42",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Kamis",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P42",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P42",
+            "dosen": "Tri Agus Setiawan, M.Kom.",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P42",
+            "dosen": "Tri Agus Setiawan, M.Kom.",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3P42 + 3P43",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Rabu",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS *",
+            "kelas": "3P42 + 3P43",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Rabu",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3P42+3P43",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "3P42+3P43",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB185",
+            "makul": "Scriptwriting and Storyboard",
+            "kelas": "3P43",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3P43",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB149",
+            "makul": "Audio and Video Design *",
+            "kelas": "3P43",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P43",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P43",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "3P43 + 5P42",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "3P43 + 5P42",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "3P43 + 5P42",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "3P43 + 5P42",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P43",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P43",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P43",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB174",
+            "makul": "Pemrograman Berbasis Web II *",
+            "kelas": "3P43",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB196",
+            "makul": "Web Design *",
+            "kelas": "3P43",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB003",
+            "makul": "Animasi I (IPS>=3,0)",
+            "kelas": "3P43",
+            "dosen": "Edi Purwanto, S.Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB176",
+            "makul": "Pemrograman Game II * (IPS>=3,0)",
+            "kelas": "3P43",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB176",
+            "makul": "Pemrograman Game II * (IPS>=3,0)",
+            "kelas": "3P43",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P43",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB215",
+            "makul": "Pemrograman Berbasis Desktop",
+            "kelas": "3P43",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB149",
+            "makul": "Audio and Video Design *",
+            "kelas": "3P43",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB128",
+            "makul": "Motion Graphic * (IPS >=3,0)",
+            "kelas": "3P43",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB128",
+            "makul": "Motion Graphic * (IPS >=3,0)",
+            "kelas": "3P43",
+            "dosen": "Wahyu Setianto, M. Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P51",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P51",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3P51",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Selasa",
+            "jam": "15.00 - 16.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3P51",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P51",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama",
+            "kelas": "3P51",
+            "dosen": "Nur Laili, M.Ag",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KK040",
+            "makul": "Interaksi Manusia dan Komputer",
+            "kelas": "3P51",
+            "dosen": "Nurul Amalia, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P51",
+            "dosen": "Agus Ilyas, M. Kom",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P51",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Senin",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P51",
+            "dosen": "Anas Syaifudin, S.Kom.",
+            "hari": "Senin",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P51",
+            "dosen": "Arochman, M. Kom",
+            "hari": "Rabu",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P51",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P52",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3P52",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3P52",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P52",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama",
+            "kelas": "3P52",
+            "dosen": "Nur Laili, M.Ag",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KK040",
+            "makul": "Interaksi Manusia dan Komputer",
+            "kelas": "3P52",
+            "dosen": "Nurul Amalia, M. Kom",
+            "hari": "Senin",
+            "jam": "13.00 - 14.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P52",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P52",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P52",
+            "dosen": "Era Yunianto, M.Kom",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P52",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P52",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P52",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3P53",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "B2.3"
+        },
+        {
+            "kode": "KB186",
+            "makul": "Sistem Enterprise",
+            "kelas": "3P53",
+            "dosen": "Eny Jumiati, M.Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "B2.3"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama",
+            "kelas": "3P53",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Sabtu",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "PK009",
+            "makul": "Pendidikan Agama",
+            "kelas": "3P53",
+            "dosen": "Malikus, M.Pd",
+            "hari": "Sabtu",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P53",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P53",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KK040",
+            "makul": "Interaksi Manusia dan Komputer",
+            "kelas": "3P53",
+            "dosen": "Nurul Amalia, M. Kom",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KK040",
+            "makul": "Interaksi Manusia dan Komputer",
+            "kelas": "3P53",
+            "dosen": "Nurul Amalia, M. Kom",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P53",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P53",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "3P53 + 7P51",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "3P53 + 7P51",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P53",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Sabtu",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P53",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Sabtu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P53",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Sabtu",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB214",
+            "makul": "Pemrograman Berbasis Web II",
+            "kelas": "3P53",
+            "dosen": "Ari Putra W, M. Kom",
+            "hari": "Sabtu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P53",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P53",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P53",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB172",
+            "makul": "Pemrograman Berbasis Desktop (IPS > = 3.00)",
+            "kelas": "3P53",
+            "dosen": "Mosses Aidjili, M. Kom",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P53",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB179",
+            "makul": "Pengelolaan DBMS",
+            "kelas": "3P53",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P53",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB282",
+            "makul": "Jaringan Komputer",
+            "kelas": "3P53",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "3P53 + 7P51",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "3P53 + 7P51",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "5M41",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "5M41",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Jumat",
+            "jam": "20.00 - 21.15",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5M41",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5M41",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB183",
+            "makul": "Content Writing",
+            "kelas": "5M41",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB183",
+            "makul": "Content Writing",
+            "kelas": "5M41",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB183",
+            "makul": "Content Writing",
+            "kelas": "5M41",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5M41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5M41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.3"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5M41",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5M41",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5M41",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB156",
+            "makul": "Embedded System and Internet of Things",
+            "kelas": "5M41",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB156",
+            "makul": "Embedded System and Internet of Things",
+            "kelas": "5M41",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB156",
+            "makul": "Embedded System and Internet of Things",
+            "kelas": "5M41",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB163",
+            "makul": "Mobile Community Solution",
+            "kelas": "5M41+5P41",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB163",
+            "makul": "Mobile Community Solution",
+            "kelas": "5M41+5P41",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB181",
+            "makul": "Mobile Testing and Implementation",
+            "kelas": "5M41+5P41",
+            "dosen": "P. A. Christianto, M.Kom.",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB181",
+            "makul": "Mobile Testing and Implementation",
+            "kelas": "5M41+5P41",
+            "dosen": "P. A. Christianto, M.Kom.",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB294",
+            "makul": "Pengembangan Aplikasi Mobile",
+            "kelas": "5M41",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Jumat",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB294",
+            "makul": "Pengembangan Aplikasi Mobile",
+            "kelas": "5M41",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5M41",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Rabu",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB192",
+            "makul": "CAD Technology",
+            "kelas": "5M41",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5M41",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Rabu",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB191",
+            "makul": "Creative Design Studio",
+            "kelas": "5M41",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB131",
+            "makul": "Virtual and Augmented Reality *",
+            "kelas": "5M41",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB131",
+            "makul": "Virtual and Augmented Reality *",
+            "kelas": "5M41",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5M41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5M41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5M41",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5M41",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5M41",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KK032",
+            "makul": "Business Intelligence System (IPS >=3.00)",
+            "kelas": "5M51",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KK032",
+            "makul": "Business Intelligence System (IPS >=3.00)",
+            "kelas": "5M51",
+            "dosen": "Devi Sugianti, M. Kom",
+            "hari": "Rabu",
+            "jam": "20.00 - 21.15",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KK161",
+            "makul": "Keamanan Sistem",
+            "kelas": "5M51",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB159",
+            "makul": "Manajemen Proyek",
+            "kelas": "5M51",
+            "dosen": "Ign. Bayu Andoro, M.Kom",
+            "hari": "Kamis",
+            "jam": "17.00 - 18.15",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing",
+            "kelas": "5M51",
+            "dosen": "Ign. Bayu Andoro, M.Kom",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "5M51",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB162",
+            "makul": "Metode Penelitian dan Publikasi",
+            "kelas": "5M51",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KK160",
+            "makul": "Audit Sistem Informasi",
+            "kelas": "5M51 + 7M51",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK160",
+            "makul": "Audit Sistem Informasi",
+            "kelas": "5M51 + 7M51",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KK160",
+            "makul": "Audit Sistem Informasi",
+            "kelas": "5M51 + 7M51",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing",
+            "kelas": "5M51",
+            "dosen": "Ign. Bayu Andoro, M.Kom",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I *",
+            "kelas": "5M51",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Senin",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "5P41",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Senin",
+            "jam": "07.00 - 08.40",
+            "ruang": "B2.1"
+        },
+        {
+            "kode": "KB217",
+            "makul": "Kecerdasan Buatan",
+            "kelas": "5P41",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "B2.1"
+        },
+        {
+            "kode": "KB183",
+            "makul": "Content Writing",
+            "kelas": "5P41",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "B2.1"
+        },
+        {
+            "kode": "KB183",
+            "makul": "Content Writing",
+            "kelas": "5P41",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "B2.1"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5P41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5P41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P41",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P41",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P41",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P41",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5P41",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB156",
+            "makul": "Embedded System and Internet of Things",
+            "kelas": "5P41",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB156",
+            "makul": "Embedded System and Internet of Things",
+            "kelas": "5P41",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB294",
+            "makul": "Pengembangan Aplikasi Mobile",
+            "kelas": "5P41",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB294",
+            "makul": "Pengembangan Aplikasi Mobile",
+            "kelas": "5P41",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5P41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5P41",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Jumat",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P41",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P41",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P41",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P41",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5P41",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB183",
+            "makul": "Content Writing",
+            "kelas": "5P42",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB183",
+            "makul": "Content Writing",
+            "kelas": "5P42",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5P42",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P42",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P42",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P42",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P42",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "B2.2"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5P42",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5P42",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB156",
+            "makul": "Embedded System and Internet of Things",
+            "kelas": "5P42",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB156",
+            "makul": "Embedded System and Internet of Things",
+            "kelas": "5P42",
+            "dosen": "Widiyono, S.T., S.Kom.",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 4"
+        },
+        {
+            "kode": "KB192",
+            "makul": "CAD Technology",
+            "kelas": "5P42",
+            "dosen": "Dicke J. S. H. Siregar, M.Kom.",
+            "hari": "Senin",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB191",
+            "makul": "Creative Design Studio",
+            "kelas": "5P42",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Senin",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB131",
+            "makul": "Virtual and Augmented Reality *",
+            "kelas": "5P42",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB131",
+            "makul": "Virtual and Augmented Reality *",
+            "kelas": "5P42",
+            "dosen": "Much. Rifqi Maulana, M.Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "5P42",
+            "dosen": "Risqiati, M. Kom",
+            "hari": "Senin",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P42",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB110",
+            "makul": "Broadcasting ** (IPS >=3,0)",
+            "kelas": "5P42",
+            "dosen": "Rizky Wijonarko, S.Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P42",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P42",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5P42",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB082",
+            "makul": "Sistem Multimedia",
+            "kelas": "5P42",
+            "dosen": "Wachid Darmawan, M.Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I",
+            "kelas": "5P51",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Rabu",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P51",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KK161",
+            "makul": "Keamanan Sistem",
+            "kelas": "5P51",
+            "dosen": "Ichwan Kurniawan, M.Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB159",
+            "makul": "Manajemen Proyek",
+            "kelas": "5P51",
+            "dosen": "Ign. Bayu Andoro, M.Kom",
+            "hari": "Kamis",
+            "jam": "15.00 - 16.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing",
+            "kelas": "5P51",
+            "dosen": "M. Faizal Kurniawan, M. Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KK160",
+            "makul": "Audit Sistem Informasi",
+            "kelas": "5P51",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KK032",
+            "makul": "Business Intelligence System (IPS >=3.00)",
+            "kelas": "5P51",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KK032",
+            "makul": "Business Intelligence System (IPS >=3.00)",
+            "kelas": "5P51",
+            "dosen": "Taryadi, M.Cs",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB162",
+            "makul": "Metodologi Penelitian & Publikasi",
+            "kelas": "5P51",
+            "dosen": "Victorianus A. S., S.E., M.Si.",
+            "hari": "Rabu",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB170",
+            "makul": "Pemrograman Berbasis Mobile I",
+            "kelas": "5P51",
+            "dosen": "Bambang Ismanto, M.Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5P51",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing",
+            "kelas": "5P51",
+            "dosen": "M. Faizal Kurniawan, M. Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7M41",
+            "dosen": "M. Faizal Kurniawan, M. Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KK174",
+            "makul": "Etika Profesi Teknologi Informasi *",
+            "kelas": "7M41",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "D1.1"
+        },
+        {
+            "kode": "PK015",
+            "makul": "Pendidikan Kewarganegaraan *",
+            "kelas": "7M41",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "PK008",
+            "makul": "Pancasila *",
+            "kelas": "7M41",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Selasa",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7M41",
+            "dosen": "M. Faizal Kurniawan, M. Kom",
+            "hari": "Senin",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "7M51",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Rabu",
+            "jam": "17.00 - 18.15",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KB093",
+            "makul": "Data Mining",
+            "kelas": "7M51",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Rabu",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7M51",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7M51",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7M51",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Senin",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7M51",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Senin",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB290",
+            "makul": "Data Warehousing",
+            "kelas": "7M52",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Kamis",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB290",
+            "makul": "Data Warehousing",
+            "kelas": "7M52",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Kamis",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KK159",
+            "makul": "Pengembangan Aplikasi BIS",
+            "kelas": "7M52",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KK159",
+            "makul": "Pengembangan Aplikasi BIS",
+            "kelas": "7M52",
+            "dosen": "M. Reza Maulana, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 7"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7P41",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KK174",
+            "makul": "Etika Profesi Teknologi Informasi *",
+            "kelas": "7P41",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "PK015",
+            "makul": "Pendidikan Kewarganegaraan *",
+            "kelas": "7P41",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "PK008",
+            "makul": "Pancasila *",
+            "kelas": "7P41",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7P41",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7P42",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Jumat",
+            "jam": "07.00 - 08.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KK174",
+            "makul": "Etika Profesi Teknologi Informasi *",
+            "kelas": "7P42",
+            "dosen": "P. A. Christianto, M.Kom.",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "PK008",
+            "makul": "Pancasila *",
+            "kelas": "7P42",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Senin",
+            "jam": "11.00 - 12.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "PK015",
+            "makul": "Pendidikan Kewarganegaraan *",
+            "kelas": "7P42",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Senin",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7P42",
+            "dosen": "Arief Soma D, M. Kom",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7P43",
+            "dosen": "M. Faizal Kurniawan, M. Kom",
+            "hari": "Selasa",
+            "jam": "13.00 - 14.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KK174",
+            "makul": "Etika Profesi Teknologi Informasi *",
+            "kelas": "7P43",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Selasa",
+            "jam": "11.00 - 12.40",
+            "ruang": "B2.3"
+        },
+        {
+            "kode": "PK015",
+            "makul": "Pendidikan Kewarganegaraan *",
+            "kelas": "7P43",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Jumat",
+            "jam": "13.00 - 14.40",
+            "ruang": "B1.2"
+        },
+        {
+            "kode": "PK008",
+            "makul": "Pancasila *",
+            "kelas": "7P43",
+            "dosen": "Wim Hapsoro,M.H",
+            "hari": "Jumat",
+            "jam": "09.00 - 10.40",
+            "ruang": "B1.4"
+        },
+        {
+            "kode": "KB124",
+            "makul": "Cloud Computing ***",
+            "kelas": "7P43",
+            "dosen": "M. Faizal Kurniawan, M. Kom",
+            "hari": "Selasa",
+            "jam": "15.00 - 16.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KK160",
+            "makul": "Audit Sistem Informasi",
+            "kelas": "7P51+ P52",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KK160",
+            "makul": "Audit Sistem Informasi",
+            "kelas": "7P51+ P52",
+            "dosen": "Sattriedi WB, M. Kom",
+            "hari": "Rabu",
+            "jam": "15.00 - 16.40",
+            "ruang": "C.4"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7P51 + 52A",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7P51 + 52A",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7P51 + 52A",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Selasa",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB117",
+            "makul": "Pemrograman Web III (IPS >=3.00)",
+            "kelas": "7P51 + 52A",
+            "dosen": "Taufiqurrohman, M.Kom",
+            "hari": "Selasa",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 5"
+        },
+        {
+            "kode": "KB290",
+            "makul": "Data Warehousing",
+            "kelas": "7P52",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Kamis",
+            "jam": "11.00 - 12.40",
+            "ruang": "C.6"
+        },
+        {
+            "kode": "KK159",
+            "makul": "Pengembangan Aplikasi BIS",
+            "kelas": "7P52A",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Rabu",
+            "jam": "11.00 - 12.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KK159",
+            "makul": "Pengembangan Aplikasi BIS",
+            "kelas": "7P52A",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Rabu",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB290",
+            "makul": "Data Warehousing",
+            "kelas": "7P52A",
+            "dosen": "Nur Ika Royanti, M. Kom",
+            "hari": "Kamis",
+            "jam": "13.00 - 14.40",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M51",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M41",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M41",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M51",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "18.30 - 19.45",
+            "ruang": "B1.3"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M41",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M51",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M51",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB195",
+            "makul": "Visualisasi Data dan Data Science",
+            "kelas": "5M41",
+            "dosen": "Eko Budi S, M. Kom",
+            "hari": "Selasa",
+            "jam": "20.00 - 21.15",
+            "ruang": "Lab 1"
+        },
+        {
+            "kode": "KB114",
+            "makul": "Pengembangan Aplikasi E Business",
+            "kelas": "7M51",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Jumat",
+            "jam": "17.00 - 18.15",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB114",
+            "makul": "Pengembangan Aplikasi E Business",
+            "kelas": "7M51",
+            "dosen": "Amanah, S.Kom",
+            "hari": "Jumat",
+            "jam": "18.30 - 19.45",
+            "ruang": "Lab 3"
+        },
+        {
+            "kode": "KB114",
+            "makul": "Pengembangan Aplikasi E Business",
+            "kelas": "7P51",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Kamis",
+            "jam": "09.00 - 10.40",
+            "ruang": "Lab 6"
+        },
+        {
+            "kode": "KB114",
+            "makul": "Pengembangan Aplikasi E Business",
+            "kelas": "7P51",
+            "dosen": "Christian YR, M. Kom",
+            "hari": "Kamis",
+            "jam": "07.00 - 08.40",
+            "ruang": "Lab 6"
+        }
+    ],
+    "dosen": [
+        {
+            "nama": "Agus Ilyas, S.Kom.",
+            "no": 85867665840
+        },
+        {
+            "nama": "Anas Syaifudin, S.Kom.",
+            "no": 85725098051
+        },
+        {
+            "nama": "Anggreningrum",
+            "no": 85640625444
+        },
+        {
+            "nama": "Anton Sampurno, M.Si.",
+            "no": 85222458875
+        },
+        {
+            "nama": "Andarias, S.Ag",
+            "no": 82323908084
+        },
+        {
+            "nama": "Ari Putra Wibowo, S.Kom.",
+            "no": 85742014272
+        },
+        {
+            "nama": "Arif Wihartanto",
+            "no": 83862195559
+        },
+        {
+            "nama": "Arochman, M.Kom.",
+            "no": 8564062833
+        },
+        {
+            "nama": "Bambang Ismanto, S.Kom.",
+            "no": 85876201391
+        },
+        {
+            "nama": "Christian Y. R., M.Kom.",
+            "no": 85866128616
+        },
+        {
+            "nama": "Dadang Aribowo, M.Kom.",
+            "no": 85640804848
+        },
+        {
+            "nama": "Devi Sugianti, M.Kom.",
+            "no": 81326872099
+        },
+        {
+            "nama": "Dicke J. S. H. Siregar, M.Kom.",
+            "no": 81542160769
+        },
+        {
+            "nama": "Eddy Priyadi",
+            "no": 8121581216
+        },
+        {
+            "nama": "Eko Aryanto",
+            "no": 85842047626
+        },
+        {
+            "nama": "Eko Budi Susanto, M.Kom.",
+            "no": 85640064830
+        },
+        {
+            "nama": "Eny Jumiati, S.Kom.",
+            "no": 85866813007
+        },
+        {
+            "nama": "Era Yunianto, M.Kom.",
+            "no": 85640406177
+        },
+        {
+            "nama": "Esti Mulyani, M.Kom.",
+            "no": 85642545725
+        },
+        {
+            "nama": "FX. Bambang, M.Pd.",
+            "no": 81326806981
+        },
+        {
+            "nama": "Hari Agung B., M.Kom.",
+            "no": 82136009001
+        },
+        {
+            "nama": "Ichwan Kurniawan, M.Kom.",
+            "no": 85642514011
+        },
+        {
+            "nama": "Ign. Bayu Andoro, M.Kom.",
+            "no": 8122574508
+        },
+        {
+            "nama": "Indrayanti, S.T., M.Kom.",
+            "no": 81575515155
+        },
+        {
+            "nama": "Ismet Inonu",
+            "no": 81542131965
+        },
+        {
+            "nama": "Istiyanto",
+            "no": 81326505860
+        },
+        {
+            "nama": "Ivandari, M.Kom.",
+            "no": 8560405599
+        },
+        {
+            "nama": "Karyoto, M.M.",
+            "no": 81542058448
+        },
+        {
+            "nama": "M. Adib Al-Karomi, M.Kom.",
+            "no": 85697536366
+        },
+        {
+            "nama": "M. Faizal Kurniawan, M.Kom.",
+            "no": 85876881288
+        },
+        {
+            "nama": "M. Reza Maulana, M.Kom.",
+            "no": 85640091681
+        },
+        {
+            "nama": "Muhammad Rikzam Kamal, M.Kom.",
+            "no": "-"
+        },
+        {
+            "nama": "Malikus, M.Ag.",
+            "no": 85728320929
+        },
+        {
+            "nama": "Moh. Zaenuri, M.Kom.",
+            "no": 85640118036
+        },
+        {
+            "nama": "Mosses Aidjilli, M.Kom.",
+            "no": 85876614385
+        },
+        {
+            "nama": "Much. Rifqi Maulana, M.Kom.",
+            "no": 85640076870
+        },
+        {
+            "nama": "Murtini, M.Si.",
+            "no": 8156927831
+        },
+        {
+            "nama": "Nur Fadhilah, S.S., M.Hum.",
+            "no": 81802496896
+        },
+        {
+            "nama": "Nur Ika Royanti, M.Kom.",
+            "no": 85640995564
+        },
+        {
+            "nama": "Nur Laili, M.Ag.",
+            "no": 85876886217
+        },
+        {
+            "nama": "Nurul Amalia, S.Kom.",
+            "no": 85869196099
+        },
+        {
+            "nama": "P. A. Christianto, M.Kom.",
+            "no": 8995929394
+        },
+        {
+            "nama": "Purwanto Rahardjo, M.M.",
+            "no": "-"
+        },
+        {
+            "nama": "Prastuti Sulistyorini, S.T., M.Kom.",
+            "no": 85879160272
+        },
+        {
+            "nama": "Retnowati, M.Sc.",
+            "no": 85787654733
+        },
+        {
+            "nama": "Risky Sulityaningsih, M.Hum.",
+            "no": 85642629800
+        },
+        {
+            "nama": "Risqiati, M.Kom.",
+            "no": 85641590927
+        },
+        {
+            "nama": "Ristiyanah, S.Kom.",
+            "no": 85741866050
+        },
+        {
+            "nama": "Sigit Tjahyono",
+            "no": 8164256428
+        },
+        {
+            "nama": "Sattriedi W. B., S.Si., M.Kom.",
+            "no": 8112708833
+        },
+        {
+            "nama": "Slamet Joko P., S.T., M.Kom.",
+            "no": 8812466888
+        },
+        {
+            "nama": "Sudaryanta",
+            "no": 85742788159
+        },
+        {
+            "nama": "Taryadi, M.Cs.",
+            "no": 81542394088
+        },
+        {
+            "nama": "Tory Ariyanto, M.Kom.",
+            "no": 85642718186
+        },
+        {
+            "nama": "Tri Pudji W., M.Si.",
+            "no": 85226607569
+        },
+        {
+            "nama": "Tri Uswatun Ch, S.Kom.",
+            "no": 85741828055
+        },
+        {
+            "nama": "Tria Titiani, M.Si.",
+            "no": 819877198
+        },
+        {
+            "nama": "Victorianus A. S., S.E., M.Si.",
+            "no": 85742433599
+        },
+        {
+            "nama": "Wachid Darmawan, S.Kom.",
+            "no": 85727144262
+        },
+        {
+            "nama": "Wahyu Setianto, M.Kom.",
+            "no": 8156958699
+        },
+        {
+            "nama": "Widiyono, S.T., S.Kom.",
+            "no": 85642625226
+        },
+        {
+            "nama": "Wim Hapsoro, M.H.",
+            "no": 87764572690
+        },
+        {
+            "nama": "Tri Agus Setiawan, M.Kom",
+            "no": 81326777248
+        },
+        {
+            "nama": "Impuni, M.Pd.",
+            "no": 85712788861
+        }
+    ]
+}
