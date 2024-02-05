@@ -1,5 +1,5 @@
-import { Jadwal, columns } from "./columns"
-import { DataTable } from "./data-table"
+import { Jadwal, columns } from "./component/columns"
+import { DataTable } from "./component/data-table"
 
 async function getData(): Promise<Jadwal[]> {
   // Fetch data from your API here.

@@ -9,36 +9,43 @@ daily commit is a must for me to keep learning and keep track of my progress. I 
 ## Features
 
 - Current Features
-> - [x] displaying an api data that contains jadwal data (https://wong-stmik.vercel.app/api/jadwal)
-> - [x] displaying a jadwal data with 10 per page
+
+  > - [x] displaying an api data that contains jadwal data (https://wong-stmik.vercel.app/api/jadwal)
+  > - [x] displaying a jadwal data with 10 per page
+  > - [x] adding pagination with numbers
 
 - Currently Working On
-> - [ ] adding pagination
+  > - [ ] adding a search bar
 
 - Future Features
-> - [ ] mobile responsive
-> - [ ] adding a search bar
-> - [ ] adding a filter
-> - [ ] adding timeline with notification
-
+  > - [ ] mobile responsive
+  > - [ ] adding a filter
+  > - [ ] adding timeline with notification
 
 ## Installation
-- Clone this repository 
+
+- Clone this repository
+
 ```bash
 git clone  https://github.com/RiqqiAmru/wong-stmik
 ```
+
 - Install the dependencies
+
 ```bash
 npm install
 ```
+
 - Run the development server
+
 ```bash
 npm run dev
 ```
+
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-
 ## Tech Stack
+
 - NextJS
 - TailwindCSS
 - ReactJS
@@ -47,5 +54,5 @@ npm run dev
 - Tan Stack Table
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
