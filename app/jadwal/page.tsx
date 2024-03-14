@@ -1,4 +1,4 @@
-import { Jadwal, columns } from "./component/columns"
+import { Jadwal, columns, Dosen } from "./component/columns"
 import { DataTable } from "./component/data-table"
 
 async function getData(): Promise<Jadwal[]> {
@@ -7,6 +7,7 @@ async function getData(): Promise<Jadwal[]> {
   const data = await staticData.json()
   return data.jadwal;
 }
+
 
 export default async function DemoPage() {
   const data = await getData()

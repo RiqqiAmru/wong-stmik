@@ -18,8 +18,9 @@ daily commit is a must for me to keep learning and keep track of my progress. I 
   > - [ ] adding a search bar
 
 - Future Features
-  > - [ ] mobile responsive
   > - [ ] adding a filter
+  > - [ ] mobile responsive
+  > - [ ] adding a mode (semua jadwal, jadwalku, cari ruang kosong, )
   > - [ ] adding timeline with notification
 
 ## Installation
@@ -56,3 +57,4 @@ npm run dev
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+ 

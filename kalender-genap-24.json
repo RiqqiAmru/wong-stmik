@@ -1,0 +1,88 @@
+// tambahkan allday ke semua event
+// rencana progress minggu ke berapa kuliah otomatis
+{
+    "title":"KALENDER AKADEMIK SEMESTER GENAP 2023/2024",
+    "event":[
+        {
+            "title":"Input KRS Sem. Genap 2023/2024",
+            "start":"2024-02-19",
+            "end":"2024-02-24",
+        },
+        {
+            "title":" Awal Perkuliahan Sem. Genap 2023/2024",
+            "start":"2024-03-04",
+            "end":"2024-03-04",
+        },
+        {
+            "title":" Pembayaran Angsuran II",
+            "start":"2024-03-20",
+            "end":"2024-05-10",
+        },
+        {
+            "title":"Pelaksanaan UTS Genap 2023/2024",
+            "start":"2024-05-13",
+            "end":"2024-05-20",
+        },
+        {
+            "title":" Gladi Bersih Wisuda",
+            "start":"2024-05-21",
+            "end":"2024-05-21",
+        },
+        {
+            "title":"Pelaksanaan Wisuda",
+            "start":"2024-05-22",
+            "end":"2024-05-22",
+        },
+        {
+            "title":"AMI",
+            "start":"2024-08-27",
+            "end":"2024-08-28",
+        },
+        {
+            "title":"Pembayaran Angsuran III",
+            "start":"2024-05-21",
+            "end":"2024-07-19",
+        },
+        {
+            "title":" Pelaksanaan UAS Genap 2023/2024",
+            "start":"2024-07-22",
+            "end":"2024-08-3",
+        },
+        {
+            "title":"KHS ( online )",
+            "start":"2024-08-15",
+            "end":"2024-08-15",
+        },
+        {
+            "title":"Sertifikasi JENI (progdi SI angkatan 2021)",
+            "start":"2024-06-10",
+            "end":"2024-06-15",
+        },
+        {
+            "title":"Sertifikasi TOEFL Progdi SI, TI angkatan 2021",
+            "start":"2024-08-22",
+            "end":"2024-08-23",
+        },
+        {
+            "title":"CCNA 1 Progdi TI angkatan 2023",
+            "start":"2024-08-09",
+            "end":"2024-08-10",
+        },
+        {
+            "title":"",
+            "start":"2024-0",
+            "end":"2024-0",
+        },
+        {
+            "title":"",
+            "start":"2024-0",
+            "end":"2024-0",
+        },
+        {
+            "title":"",
+            "start":"2024-0",
+            "end":"2024-0",
+        },
+        {"start":"2024-03-11","title":"Hari Raya Nyepi Tahun Baru Saka 1946"},{"start":"2024-03-12","title":"Cuti Bersama Hari Raya Nyepi"},{"start":"2024-03-29","title":"Wafat Isa Al Masih"},{"start":"2024-03-31","title":"Hari Paskah"},{"start":"2024-04-8","title":"Cuti Bersama Hari Raya Idul Fitri"},{"start":"2024-04-9","title":"Cuti Bersama Hari Raya Idul Fitri"},{"start":"2024-04-10","title":"Hari Raya Idul Fitri 1445 H"},{"start":"2024-04-11","title":"Hari Raya Idul Fitri 1445 H"},{"start":"2024-04-12","title":"Cuti Bersama Hari Raya Idul Fitri"},{"start":"2024-04-15","title":"Cuti Bersama Hari Raya Idul Fitri"},{"start":"2024-05-1","title":"Hari Buruh Internasional"},{"start":"2024-05-9","title":"Kenaikan Isa Al Masih"},{"start":"2024-05-10","title":"Cuti Bersama Kenaikan Isa Al Masih"},{"start":"2024-05-23","title":"Hari Raya Waisak 2568 BE"},{"start":"2024-05-24","title":"Cuti Bersama Hari Raya Waisak"},{"start":"2024-06-1","title":"Hari Lahir Pancasila"},{"start":"2024-06-17","title":"Hari Raya Idul Adha 1445 H"},{"start":"2024-06-18","title":"Cuti Bersama Hari Raya Idul Adha"},{"start":"2024-07-7","title":"Tahun Baru Islam 1446 H"},{"start":"2024-08-17","title":"Hari Kemerdekaan Republik Indonesia ke 79"},{"start":"2024-09-16","title":"Maulid Nabi Muhammad SAW"},{"start":"2024-12-25","title":"Hari Raya Natal"},{"start":"2024-12-26","title":"Cuti Bersama Hari Raya Natal"}
+    ]
+}
